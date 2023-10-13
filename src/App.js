@@ -9,7 +9,6 @@ function App() {
       <Container>
         <Hero />
         <MostPopular />
-        <MostPopular />
       </Container>
       <Footer />
     </>
