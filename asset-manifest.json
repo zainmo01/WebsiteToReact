@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WebsiteToReact/static/css/main.6fc82331.css",
+    "main.js": "/WebsiteToReact/static/js/main.1be9dcc3.js",
+    "static/media/banner-bg.jpg": "/WebsiteToReact/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-02.jpg": "/WebsiteToReact/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/WebsiteToReact/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/WebsiteToReact/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-03.jpg": "/WebsiteToReact/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/WebsiteToReact/index.html",
+    "main.6fc82331.css.map": "/WebsiteToReact/static/css/main.6fc82331.css.map",
+    "main.1be9dcc3.js.map": "/WebsiteToReact/static/js/main.1be9dcc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc82331.css",
+    "static/js/main.1be9dcc3.js"
+  ]
+}
